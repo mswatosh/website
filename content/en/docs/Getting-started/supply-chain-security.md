@@ -153,7 +153,7 @@ Now you can push images to a registry within your minikube cluster.
 
 1. Create a file called `pipeline.yaml` and add the following:
 
-   {{% readfile file="samples/build-push.yaml" code="true" lang="yaml" %}}
+   {{< readfile file="samples/build-push.yaml" code="true" lang="yaml" >}}
 
 1. Get your cluster IPs:
 
